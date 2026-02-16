@@ -12,7 +12,7 @@ cloudpickle==3.1.2
 colorama==0.4.6
 contourpy==1.3.3
 cycler==0.12.1
-decord==0.6.0
+decord2
 distro==1.9.0
 einops==0.8.2
 filelock==3.20.3
@@ -69,12 +69,12 @@ pyparsing==3.3.2
 pytest==9.0.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
-pywin32==311
+#pywin32==311
 PyYAML==6.0.3
 regex==2026.1.15
 rich==14.3.2
 safetensors==0.7.0
-sam3-lora @ git+https://github.com/Sompote/SAM3_LoRA.git@e8744cf3aa7441421d1cf9e3f612679d78e3924e
+#sam3-lora @ git+https://github.com/Sompote/SAM3_LoRA.git@e8744cf3aa7441421d1cf9e3f612679d78e3924e
 scikit-image==0.26.0
 scikit-learn==1.8.0
 scipy==1.17.0
