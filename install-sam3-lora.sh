@@ -1,0 +1,1 @@
+sam3-lora @ git+https://github.com/Sompote/SAM3_LoRA.git@e8744cf3aa7441421d1cf9e3f612679d78e3924e
